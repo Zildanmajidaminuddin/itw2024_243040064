@@ -1,0 +1,42 @@
+body {
+    background-image: url("background.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-family: Georgia, "Times New Roman", Times, serif;
+  }
+  h1 {
+    font-size: 60px;
+    color: darkblue;
+    font-family: "Comic Sans MS";
+    text-align: center;
+  }
+  h4 {
+    font-style: italic;
+    text-align: center;
+  }
+  p {
+    text-align: justify;
+  }
+  a {
+    color: rgb(243, 5, 5);
+  }
+  a:hover {
+    color: blue;
+  }
+  .zdn {
+    color: blue;
+  }
+  .zdn:hover {
+    background-color: black;
+  }
+  .L {
+    color: salmon;
+    text-align: center;
+  }
+  p {
+    text-align: right;
+  }
+  h3 {
+    text-align: center;
+  }

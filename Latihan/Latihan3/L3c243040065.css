@@ -1,0 +1,37 @@
+body {
+  background-color: aqua;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+h1 {
+  font-size: 60px;
+  color: darkblue;
+  font-family: "Comic Sans MS";
+  text-align: center;
+}
+h4 {
+  font-style: italic;
+  text-align: right;
+}
+p {
+  text-align: justify;
+}
+a {
+  color: rgb(254, 250, 250);
+}
+.zdn {
+  color: blue;
+}
+
+.L {
+  color: salmon;
+  text-align: center;
+}
+p {
+  text-align: right;
+}
+a:hover {
+  color: blue;
+}
+.alex:hover {
+  background-color: black;
+}
